@@ -26,7 +26,7 @@ public class Circulo {
     public String toString() {
         return "Circulo {" +
                 " Radio= " + getRadio() +
-                ", Area= " + Area +
+                ", Area= " + getArea() +
                 '}';
     }
 }
